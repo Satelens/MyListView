@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.platform = :ios, "10.0"
-  s.version      = "1.0.0"
+  spec.version      = "1.0.0"
   spec.name         = 'BYListView'
   spec.license      = { :type => 'MIT' }
   spec.homepage     = 'https://github.com/houboye/BYListView'
